@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "923353787908",
+    "project_id": "ai-chat-d516e",
+    "storage_bucket": "ai-chat-d516e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923353787908:android:392a83563eadad4b4e4f51",
+        "android_client_info": {
+          "package_name": "com.example.memesh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923353787908-67f0qf74mu5lsemhppoq549pfh1e36cg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBgl7EF_dof7DAhP5H29aRM2rhsuaaEVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923353787908-67f0qf74mu5lsemhppoq549pfh1e36cg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
